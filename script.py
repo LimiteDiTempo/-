@@ -34,6 +34,6 @@ informations = {
   "나이": "16살",
   "학교": "왕선중학교",
   "좋아하는 것": "게임,놀기",
-  "MBTI": "INTP"
+  "싫어하는 것": "귀찮은 것"
 }
 information(informations)
