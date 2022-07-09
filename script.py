@@ -6,7 +6,8 @@ def write(name, desc):
 
 # 하단 버튼 링크 연결 함수
 def button(*args):
-  link = "https://www.google.com/" # https://www.instagram.com/sew00k/webbrowser.open(link)
+  link = "https://www.google.com/" # https://www.instagram.com/sew00k/
+  webbrowser.open(link)
 
 # 배경 색깔 설정 함수
 def background(color):
@@ -32,7 +33,7 @@ write("button", "Instagram")
 informations = {
   "나이": "16살",
   "학교": "왕선중학교",
-  "좋아하는 것": "게임(롤)",
+  "좋아하는 것": "게임, 놀기",
   "MBTI": "INTP"
 }
 information(informations)
