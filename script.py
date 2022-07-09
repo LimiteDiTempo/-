@@ -33,7 +33,7 @@ write("button", "Instagram")
 informations = {
   "나이": "16살",
   "학교": "왕선중학교",
-  "좋아하는 것": "게임, 놀기",
+  "좋아하는 것": "게임,놀기",
   "MBTI": "INTP"
 }
 information(informations)
